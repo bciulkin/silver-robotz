@@ -1,3 +1,3 @@
-# silver-robotz
+# Stable marriage problem solution in Go
 
-testing edit on mobile
+Repository implements stable marriage problem solution with Gale-Shapley algorithm 
